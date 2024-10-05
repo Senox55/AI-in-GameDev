@@ -44,7 +44,7 @@
 
 ## Задание 2
 ### Написать программу Hello World на C# с запуском на Unity.
-![Image alt](https://github.com/Senox55/AI-in-GameDev/blob/main/C#.png)
+![Image alt](https://github.com/Senox55/AI-in-GameDev/blob/main/C.png)
 
 
 ## Задание 3
