@@ -44,13 +44,13 @@ https://docs.google.com/spreadsheets/d/1_RmpdxtCpZq1AVZgVg7kyt0D7LEFrzSdpouCPSJa
 
 ## Задание 2
 ### Визуализируйте параметры оружия в таблице.Используйте шаблон таблицы для визуализации оружия игры Save RTF. Постройте примеры для следующих математических величин (см. пример в презентации):
-![Image alt](https://github.com/Senox55/AI-in-GameDev/blob/main/graphic1.png)
-![Image alt](https://github.com/Senox55/AI-in-GameDev/blob/main/graphic2.png)
-![Image alt](https://github.com/Senox55/AI-in-GameDev/blob/main/graphic2.png)
+![Image alt](https://github.com/Senox55/AI-in-GameDev/blob/main/workshop3/graphic1.png)
+![Image alt](https://github.com/Senox55/AI-in-GameDev/blob/main/workshop3/graphic2.png)
+![Image alt](https://github.com/Senox55/AI-in-GameDev/blob/main/workshop3/graphic3.png)
 
 ## Задание 3
 ### Решение в 80+ баллов должно визуализировать данные из google-таблицы, и с помощью Python передавать переменные в проект Unity. В Python данные также должны быть визуализированы.
-![Image alt](https://github.com/Senox55/AI-in-GameDev/blob/main/unity.png)
+![Image alt](https://github.com/Senox55/AI-in-GameDev/blob/main/workshop3/unity.png)
 
 
 ## Выводы
