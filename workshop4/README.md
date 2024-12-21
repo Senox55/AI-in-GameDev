@@ -44,7 +44,7 @@ AND | дать комментарии о корректности работы.
 NAND | дать комментарии о корректности работы.
 XOR | дать комментарии о корректности работы.
 
-![Image alt][https://github.com/Senox55/AI-in-GameDev/blob/main/workshop4/img1.png]
+![Image alt][https://github.com/Senox55/AI-in-GameDev/blob/main/workshop4/img1.jpg]
 
 Ссылка на таблицу: https://docs.google.com/spreadsheets/d/1Z1DuRWGG6R_fqSGI13Q7vxAP8MX19Wdv9o9gFAIWAiI/edit?usp=sharing
 
@@ -56,7 +56,7 @@ XOR | дать комментарии о корректности работы.
 
 ## Задание 2
 ### Построить графики зависимости количества эпох от ошибки обучения. Указать от чего зависит необходимое количество эпох обучения.
-![Image alt][https://github.com/Senox55/AI-in-GameDev/blob/main/workshop4/img2.png]
+![Image alt][https://github.com/Senox55/AI-in-GameDev/blob/main/workshop4/img2.jpg]
 
 Необходимое количество эпох зависит, прежде всего, от 
 сложности функции. Например OR - самая простая из используемых, поэтому перцептрону понадобиться всего 4 эпохи обучения, 
